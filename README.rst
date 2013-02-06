@@ -3,4 +3,4 @@ The BB Group comes to Github!
 
 Testing Github's behaviour with ReST docs.
 
-Testing TTW editing and pull requests and code review too!
+Testing Through The Web editing and pull requests and code review too!
